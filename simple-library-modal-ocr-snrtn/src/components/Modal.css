@@ -1,0 +1,9 @@
+.modal-close {
+  position: absolute;
+  right: 0;
+  top: 8px;
+}
+
+.modal-content {
+  padding: 16px;
+}
